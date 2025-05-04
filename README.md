@@ -1,3 +1,5 @@
+This is a unofficial of the mod Cobblemon check there [repo](https://gitlab.com/cable-mc/cobblemon)
+It resolve crash when you have pokemon that can evolve in your team.
 # Cobblemon
 
 An open-source Pokémon mod for Minecraft Java Edition, written in Kotlin for Fabric and Forge.
